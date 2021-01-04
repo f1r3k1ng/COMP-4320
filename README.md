@@ -15,6 +15,6 @@ Run `unzip Project1.zip` from the linux CLI
 5. On the server `run g++ server.cpp -o`*`output_filename`* (We have supplied server which is our output file)
 6. On the server run the command `./output_filename` (Or if using our output file run `./server`)
 	Make sure the server is running before starting the client
-7. On the client run the command `./`*`output_filename`*` PUT `*`filename_to_transfer`* *`damage_probability`* *`corruption_probability`*`
+7. On the client run the command `./`*`output_filename`*`PUT`*`filename_to_transfer`*_`damage_probability`_*`corruption_probability`*
 	For out testing we used the command `./output PUT Testfile .3 .2`
 	Also note that for both *damage_probability* and *corruption_probability* a decimal value of less than 1 and greater than 0 is expected
