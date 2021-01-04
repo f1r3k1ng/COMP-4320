@@ -3,6 +3,7 @@
 #### Instructor: Alvin Lim
 ### Project Explaination
 
+The goal of this project is to create an simple FTP application in C++.
 
 ### Instructions for running the FTP application
 
