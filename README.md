@@ -3,7 +3,10 @@
 #### Instructor: Alvin Lim
 ### Project Explaination
 
-The goal of this project is to create an simple FTP application in C++.
+The goal of this project is to create an simple FTP application in C++.  
+We developed a client application that would send packets of 128 bytes. We allocated the first 8 bytes of every packet to contain the packet header data.
+The header contained the sequence number for each packet and the checksum so that the packets could correctly be put together and the integrity of the packet could be confirmed.  
+For this project we were not required to do anything about packets that were sent out of order or packets that had changed in transit, instead, we simply noted in our output for the server if a packet had been lost or if a packet arrived modified.
 
 ### Instructions for running the FTP application
 
