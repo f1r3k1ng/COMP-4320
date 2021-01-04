@@ -14,7 +14,7 @@ Run `unzip Project1.zip` from the linux CLI
 4. On the client run 
    <pre>
    g++ client.cpp -o <i>output_filename<i>
-   <pre> 
+   </pre> 
    (We have supplied _output_ which is our output file)
 6. On the server `run g++ server.cpp -o`*`output_filename`* (We have supplied server which is our output file)
 7. On the server run the command `./output_filename` (Or if using our output file run `./server`)
