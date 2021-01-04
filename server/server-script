@@ -1,0 +1,270 @@
+Script started on 2020-11-06 15:39:35-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="246" LINES="65"]
+]0;fireking@ubuntu: ~/Downloads[01;32mfireking@ubuntu[00m:[01;34m~/Downloads[00m$ ls
+[0m[01;32mserver[0m  server.cpp  typescript
+]0;fireking@ubuntu: ~/Downloads[01;32mfireking@ubuntu[00m:[01;34m~/Downloads[00m$ lsping google.com[1Pvim client.cpp[Ksudo apt install vim[1Pupgrade -y[10@date && up[C[C[C[C[C[C[C[C[10P[C[C[C[C[C[C[C[Cinstall vimvim[K client.cppping google.comls[K[Klsping google.com[1Pvim client.cppping google.comls[K[Kg++ server.cpp -o server
+[01m[Kserver.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[Kserver.cpp:24:19:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K-Wwrite-strings[m[K]
+   24 |  char *response = [01;35m[K"PUT successfully completed"[m[K;
+      |                   [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+]0;fireking@ubuntu: ~/Downloads[01;32mfireking@ubuntu[00m:[01;34m~/Downloads[00m$ ./server
+Testfile
+Packet is not corrupted	Sequence: 1 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 2 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is not corrupted	Sequence: 3 Data: ldHelloWorldHelloWorldHelloWorldHelloWorldHelloW
+Packet is not corrupted	Sequence: 4 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is corrupted	Sequence: 5
+Packet is not corrupted	Sequence: 6 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is not corrupted	Sequence: 7 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Sequence: 8 Packet Lost
+Packet is not corrupted	Sequence: 9 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Packet is not corrupted	Sequence: 10 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is not corrupted	Sequence: 11 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 12 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is corrupted	Sequence: 13
+Packet is corrupted	Sequence: 14
+Sequence: 15 Packet Lost
+Sequence: 16 Packet Lost
+Sequence: 17 Packet Lost
+Packet is corrupted	Sequence: 18
+Packet is not corrupted	Sequence: 19 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Packet is corrupted	Sequence: 20
+Packet is not corrupted	Sequence: 21 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 22 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is not corrupted	Sequence: 23 Data: ldHelloWorldHelloWorldHelloWorldHelloWorldHelloW
+Packet is corrupted	Sequence: 24
+Packet is not corrupted	Sequence: 25 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Packet is not corrupted	Sequence: 26 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is not corrupted	Sequence: 27 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 28 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is not corrupted	Sequence: 29 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Sequence: 30 Packet Lost
+Sequence: 31 Packet Lost
+Packet is not corrupted	Sequence: 32 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is corrupted	Sequence: 33
+Packet is not corrupted	Sequence: 34 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is corrupted	Sequence: 35
+Packet is corrupted	Sequence: 36
+Packet is not corrupted	Sequence: 37 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 38 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is not corrupted	Sequence: 39 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Sequence: 40 Packet Lost
+Packet is not corrupted	Sequence: 41 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is corrupted	Sequence: 42
+Sequence: 43 Packet Lost
+Packet is not corrupted	Sequence: 44 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Sequence: 45 Packet Lost
+Sequence: 46 Packet Lost
+Sequence: 47 Packet Lost
+Packet is corrupted	Sequence: 48
+Packet is not corrupted	Sequence: 49 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Sequence: 50 Packet Lost
+Packet is not corrupted	Sequence: 51 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 52 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Sequence: 53 Packet Lost
+Sequence: 54 Packet Lost
+Packet is corrupted	Sequence: 55
+Packet is corrupted	Sequence: 56
+Packet is not corrupted	Sequence: 57 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 58 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is corrupted	Sequence: 59
+Packet is not corrupted	Sequence: 60 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is not corrupted	Sequence: 61 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 62 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is corrupted	Sequence: 63
+Packet is not corrupted	Sequence: 64 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is corrupted	Sequence: 65
+Packet is not corrupted	Sequence: 66 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is not corrupted	Sequence: 67 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 68 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is corrupted	Sequence: 69
+Sequence: 70 Packet Lost
+Packet is not corrupted	Sequence: 71 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 72 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is not corrupted	Sequence: 73 Data: ldHelloWorldHelloWorldHelloWorldHelloWorldHelloW
+Sequence: 74 Packet Lost
+Sequence: 75 Packet Lost
+Packet is not corrupted	Sequence: 76 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is corrupted	Sequence: 77
+Packet is corrupted	Sequence: 78
+Packet is not corrupted	Sequence: 79 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Packet is not corrupted	Sequence: 80 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is not corrupted	Sequence: 81 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Sequence: 82 Packet Lost
+Sequence: 83 Packet Lost
+Packet is not corrupted	Sequence: 84 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is not corrupted	Sequence: 85 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Packet is not corrupted	Sequence: 86 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is not corrupted	Sequence: 87 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 88 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is not corrupted	Sequence: 89 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Packet is not corrupted	Sequence: 90 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is not corrupted	Sequence: 91 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 92 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is not corrupted	Sequence: 93 Data: ldHelloWorldHelloWorldHelloWorldHelloWorldHelloW
+Packet is not corrupted	Sequence: 94 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Sequence: 95 Packet Lost
+Packet is corrupted	Sequence: 96
+Packet is not corrupted	Sequence: 97 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Sequence: 98 Packet Lost
+Sequence: 99 Packet Lost
+Packet is corrupted	Sequence: 100
+Packet is not corrupted	Sequence: 101 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 102 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Sequence: 103 Packet Lost
+Packet is not corrupted	Sequence: 104 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Sequence: 105 Packet Lost
+Packet is corrupted	Sequence: 106
+Packet is not corrupted	Sequence: 107 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 108 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is not corrupted	Sequence: 109 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Sequence: 110 Packet Lost
+Packet is not corrupted	Sequence: 111 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Sequence: 112 Packet Lost
+Packet is not corrupted	Sequence: 113 Data: ldHelloWorldHelloWorldHelloWorldHelloWorldHelloW
+Packet is corrupted	Sequence: 114
+Packet is not corrupted	Sequence: 115 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Sequence: 116 Packet Lost
+Packet is corrupted	Sequence: 117
+Sequence: 118 Packet Lost
+Packet is not corrupted	Sequence: 119 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Sequence: 120 Packet Lost
+Packet is corrupted	Sequence: 121
+Packet is not corrupted	Sequence: 122 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Sequence: 123 Packet Lost
+Packet is corrupted	Sequence: 124
+Sequence: 125 Packet Lost
+Packet is not corrupted	Sequence: 126 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is not corrupted	Sequence: 127 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 128 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is corrupted	Sequence: 129
+Packet is not corrupted	Sequence: 130 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Sequence: 131 Packet Lost
+Sequence: 132 Packet Lost
+Packet is corrupted	Sequence: 133
+Sequence: 134 Packet Lost
+Packet is not corrupted	Sequence: 135 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Packet is not corrupted	Sequence: 136 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is corrupted	Sequence: 137
+Packet is corrupted	Sequence: 138
+Packet is corrupted	Sequence: 139
+Packet is not corrupted	Sequence: 140 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is not corrupted	Sequence: 141 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is corrupted	Sequence: 142
+Sequence: 143 Packet Lost
+Packet is not corrupted	Sequence: 144 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Sequence: 145 Packet Lost
+Sequence: 146 Packet Lost
+Packet is not corrupted	Sequence: 147 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 148 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is not corrupted	Sequence: 149 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Packet is not corrupted	Sequence: 150 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is not corrupted	Sequence: 151 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 152 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is not corrupted	Sequence: 153 Data: ldHelloWorldHelloWorldHelloWorldHelloWorldHelloW
+Packet is corrupted	Sequence: 154
+Packet is not corrupted	Sequence: 155 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Packet is not corrupted	Sequence: 156 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is corrupted	Sequence: 157
+Packet is not corrupted	Sequence: 158 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is not corrupted	Sequence: 159 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Packet is not corrupted	Sequence: 160 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is corrupted	Sequence: 161
+Packet is not corrupted	Sequence: 162 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is corrupted	Sequence: 163
+Packet is not corrupted	Sequence: 164 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is not corrupted	Sequence: 165 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Sequence: 166 Packet Lost
+Packet is corrupted	Sequence: 167
+Packet is not corrupted	Sequence: 168 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is corrupted	Sequence: 169
+Packet is not corrupted	Sequence: 170 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is corrupted	Sequence: 171
+Sequence: 172 Packet Lost
+Sequence: 173 Packet Lost
+Packet is not corrupted	Sequence: 174 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is corrupted	Sequence: 175
+Packet is not corrupted	Sequence: 176 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is not corrupted	Sequence: 177 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 178 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is corrupted	Sequence: 179
+Packet is not corrupted	Sequence: 180 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is corrupted	Sequence: 181
+Packet is not corrupted	Sequence: 182 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is corrupted	Sequence: 183
+Packet is not corrupted	Sequence: 184 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is not corrupted	Sequence: 185 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Sequence: 186 Packet Lost
+Packet is not corrupted	Sequence: 187 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 188 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is corrupted	Sequence: 189
+Packet is corrupted	Sequence: 190
+Packet is not corrupted	Sequence: 191 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 192 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is not corrupted	Sequence: 193 Data: ldHelloWorldHelloWorldHelloWorldHelloWorldHelloW
+Packet is corrupted	Sequence: 194
+Packet is corrupted	Sequence: 195
+Packet is corrupted	Sequence: 196
+Packet is corrupted	Sequence: 197
+Packet is not corrupted	Sequence: 198 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is not corrupted	Sequence: 199 Data: lloWorldHelloWorldHelloWorldHelloWorldHelloWorld
+Packet is corrupted	Sequence: 200
+Packet is not corrupted	Sequence: 201 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 202 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Sequence: 203 Packet Lost
+Sequence: 204 Packet Lost
+Packet is corrupted	Sequence: 205
+Sequence: 206 Packet Lost
+Packet is not corrupted	Sequence: 207 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 208 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is corrupted	Sequence: 209
+Sequence: 210 Packet Lost
+Packet is corrupted	Sequence: 211
+Packet is not corrupted	Sequence: 212 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is not corrupted	Sequence: 213 Data: ldHelloWorldHelloWorldHelloWorldHelloWorldHelloW
+Packet is not corrupted	Sequence: 214 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is not corrupted	Sequence: 215 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Packet is corrupted	Sequence: 216
+Packet is not corrupted	Sequence: 217 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 218 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Packet is corrupted	Sequence: 219
+Packet is not corrupted	Sequence: 220 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Sequence: 221 Packet Lost
+Packet is not corrupted	Sequence: 222 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHefloWo
+Sequence: 223 Packet Lost
+Packet is not corrupted	Sequence: 224 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is not corrupted	Sequence: 225 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Packet is not corrupted	Sequence: 226 Data: WorldHelloWorldHelloWorldHelloWorldHelloWorldHel
+Packet is not corrupted	Sequence: 227 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is corrupted	Sequence: 228
+Packet is corrupted	Sequence: 229
+Sequence: 230 Packet Lost
+Packet is not corrupted	Sequence: 231 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 232 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is corrupted	Sequence: 233
+Packet is not corrupted	Sequence: 234 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Packet is not corrupted	Sequence: 235 Data: orldHelloWorldHelloWorldHelloWorldHelloWorldHell
+Packet is corrupted	Sequence: 236
+Packet is not corrupted	Sequence: 237 Data: oWorldHelloWorldHelloWorldHelloWorldHelloWorldHe
+Packet is not corrupted	Sequence: 238 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Sequence: 239 Packet Lost
+Sequence: 240 Packet Lost
+Sequence: 241 Packet Lost
+Sequence: 242 Packet Lost
+Sequence: 243 Packet Lost
+Packet is not corrupted	Sequence: 244 Data: rldHelloWorldHelloWorldHelloWorldHelloWorldHello
+Sequence: 245 Packet Lost
+Sequence: 246 Packet Lost
+Packet is corrupted	Sequence: 247
+Packet is not corrupted	Sequence: 248 Data: loWorldHelloWorldHelloWorldHelloWorldHelloWorldH
+Sequence: 249 Packet Lost
+Packet is not corrupted	Sequence: 250 Data: elloWorldHelloWorldHelloWorldHelloWorldHelloWorl
+Packet is not corrupted	Sequence: 251 Data: HelloWorldHelloWorldHelloWorldHelloWorldHelloWor
+Packet is not corrupted	Sequence: 252 Data: dHelloWorldHelloWorldHelloWorldHelloWorldHelloWo
+Packet is not corrupted	Sequence: 253 Data: ldHelloWorld
+Response Message Sent. 
+]0;fireking@ubuntu: ~/Downloads[01;32mfireking@ubuntu[00m:[01;34m~/Downloads[00m$ ls
+[0m[01;32mserver[0m  server.cpp  Testfile  typescript
+]0;fireking@ubuntu: ~/Downloads[01;32mfireking@ubuntu[00m:[01;34m~/Downloads[00m$ exit
+exit
+
+Script done on 2020-11-06 15:41:16-08:00 [COMMAND_EXIT_CODE="0"]
