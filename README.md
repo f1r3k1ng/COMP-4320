@@ -7,7 +7,7 @@
 Run `unzip Project1.zip` from the linux CLI
 
 1. Ensure that the IP address within client.cpp is set to the IP address that your server.cpp is going to be running on
-	In order to find your IP on a linux machine run "ip a" from the CLI
+>In order to find your IP on a linux machine run "ip a" from the CLI
 2. Ensure that the file you want to transfer to the server is in your current directory 
 	(We have provided our test file "Testfile" it should be noted that this file has unix line endings)
 3. If you copy a file from windows to linux that make to run  `dos2unix filename`	
