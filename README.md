@@ -1,6 +1,8 @@
 # COMP-4320
 ## Introduction to Networks
 #### Instructor: Alvin Lim
+### Project Explaination
+
 
 ### Instructions for running the FTP application
 
@@ -12,7 +14,7 @@ Run `unzip Project1.zip` from the linux CLI
    - In order to find your IP on a linux machine run `ip addr` from the CLI.
 2. Ensure that the file you want to transfer to the server is in your current working directory.  
    (We have provided our test file _Testfile_, it should be noted that this file has unix line endings)  
-3. If you copy a file from Windows to Linux run the following command to ensure correct line endings `dos2unix filename`	
+3. If you copy a file from Windows to Linux run the following command: `dos2unix filename`	
 4. On the client run the following command:
    <pre>
    g++ client.cpp -o <i>output_filename</i>
