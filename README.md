@@ -11,7 +11,7 @@ Run `unzip Project1.zip` from the linux CLI
 2. Ensure that the file you want to transfer to the server is in your current directory 
 	(We have provided our test file _Testfile_, it should be noted that this file has unix line endings)
 3. If you copy a file from windows to linux that make to run  `dos2unix filename`	
-4. On the client `run g++ client.cpp -o *output_filename*` (We have supplied output which is our output file)
+4. On the client <pre>run g++ client.cpp -o <b>output_filename<b><pre> (We have supplied output which is our output file)
 5. On the server `run g++ server.cpp -o`*`output_filename`* (We have supplied server which is our output file)
 6. On the server run the command `./output_filename` (Or if using our output file run `./server`)
 	Make sure the server is running before starting the client
